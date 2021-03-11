@@ -8,9 +8,6 @@
  
  Página de la Facultad:
  http://www.fciencias.unam.mx/docencia/horarios/detalles/323193
- 
- Google Meet:
- https://meet.google.com/lookup/blekpppwbk
 
  Google Classroom:
  https://classroom.google.com/c/MjY2MjIzMzA1NDU1?cjc=yjg3xi7
