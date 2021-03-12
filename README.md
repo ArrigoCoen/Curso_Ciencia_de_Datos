@@ -25,6 +25,6 @@ El curso se compone de 5 módulos:
  https://github.com/ArrigoCoen/Curso_Ciencia_de_Datos/edit/main/README.md
  
  Youtube: 
- https://www.youtube.com/channel/UC0r6fbOaaRg_sTlmIDXRtlw
+ https://www.youtube.com/channel/UCpd6apa8tnfZFGW5-B4nRlw
  
  
