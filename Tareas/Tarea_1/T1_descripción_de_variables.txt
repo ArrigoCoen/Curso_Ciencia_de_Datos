@@ -1,3 +1,6 @@
+California Housing Prices:
+https://scikit-learn.org/stable/datasets/real_world.html#california-housing-dataset
+
 T1_red_wine:
 https://www.kaggle.com/budnyak/wine-rating-and-price?select=Red.csv
 
